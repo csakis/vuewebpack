@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core" createForm="false">
+<div id="app"></div>
+  <script src="js/build.js"></script>
+</xp:view>
